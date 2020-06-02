@@ -1,0 +1,16 @@
+D:\Дюсик\ШАГ\WPF\SortCommands\SortCommands\bin\Debug\SortCommands.exe.config
+D:\Дюсик\ШАГ\WPF\SortCommands\SortCommands\bin\Debug\SortCommands.exe
+D:\Дюсик\ШАГ\WPF\SortCommands\SortCommands\bin\Debug\SortCommands.pdb
+D:\Дюсик\ШАГ\WPF\SortCommands\SortCommands\obj\Debug\SortCommands.csprojAssemblyReference.cache
+D:\Дюсик\ШАГ\WPF\SortCommands\SortCommands\obj\Debug\MainWindow.g.cs
+D:\Дюсик\ШАГ\WPF\SortCommands\SortCommands\obj\Debug\App.g.cs
+D:\Дюсик\ШАГ\WPF\SortCommands\SortCommands\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Дюсик\ШАГ\WPF\SortCommands\SortCommands\obj\Debug\SortCommands_MarkupCompile.cache
+D:\Дюсик\ШАГ\WPF\SortCommands\SortCommands\obj\Debug\SortCommands_MarkupCompile.lref
+D:\Дюсик\ШАГ\WPF\SortCommands\SortCommands\obj\Debug\MainWindow.baml
+D:\Дюсик\ШАГ\WPF\SortCommands\SortCommands\obj\Debug\SortCommands.g.resources
+D:\Дюсик\ШАГ\WPF\SortCommands\SortCommands\obj\Debug\SortCommands.Properties.Resources.resources
+D:\Дюсик\ШАГ\WPF\SortCommands\SortCommands\obj\Debug\SortCommands.csproj.GenerateResource.cache
+D:\Дюсик\ШАГ\WPF\SortCommands\SortCommands\obj\Debug\SortCommands.csproj.CoreCompileInputs.cache
+D:\Дюсик\ШАГ\WPF\SortCommands\SortCommands\obj\Debug\SortCommands.exe
+D:\Дюсик\ШАГ\WPF\SortCommands\SortCommands\obj\Debug\SortCommands.pdb
